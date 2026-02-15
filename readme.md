@@ -36,5 +36,7 @@ se ninja -> no ataque exibir (usou shuriken)
 Ao final deve se exibir uma mensagem:
 
 - "o {tipo} atacou usando {ataque}"
+
   ex: atirador atacou usando revólver
+
   ex: guerreiro atacou usando espada
